@@ -9,4 +9,4 @@ Encapsulate a request as an object,therebyletting you parameterize clients with 
 * 结合`责任链`模式，实现命令族解析
 * 结合`模板方法`模式，减少Command子类的膨胀问题
 ***
-![UML](https://github.com/johnnyleeRH/DesignPattern/tree/master/15%20command/command.png)
+![UML](https://github.com/johnnyleeRH/DesignPattern/blob/master/15%20command/command.png)
