@@ -7,4 +7,4 @@ Avoid coupling the sender of a request to its receiver by giving more than one o
 * 优点是请求和处理者分开；缺点是链遍历性能开销及问题定位调试复杂
 ## 扩展
 ***
-![UML]()
+![UML](https://github.com/johnnyleeRH/DesignPattern/blob/master/16%20responsibility/responsibility.png)
