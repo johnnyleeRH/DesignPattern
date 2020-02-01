@@ -8,4 +8,4 @@ Define the skeleton of an algorithm in an operation,deferring some steps tosubcl
 ## 扩展
 设置`钩子方法（Hook Method）`来控制各子类行为的差别
 ***
-![UML]()
+![UML](https://github.com/johnnyleeRH/DesignPattern/blob/master/10%20template/template.png)
