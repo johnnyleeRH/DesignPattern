@@ -12,4 +12,4 @@ Define an interface for creating an object,but let subclasses decide which class
 * 升级为多个工厂类，一个产品对应一个工厂类
 * 延迟初始化，一个对象被消费完毕后，并不立即释放，可以用于某类产品限制最大实例化数量的情况
 ***
-![UML]()
+![UML](https://github.com/johnnyleeRH/DesignPattern/blob/master/8%20factory/factory.png)
