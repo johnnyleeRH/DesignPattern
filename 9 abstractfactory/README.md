@@ -6,4 +6,4 @@ Provide an interface for creating families of related or dependent objects witho
 * 场景定义非常简单，一个对象族都有相同的约束则可以使用，如一个应用在不同操作系统平台上运行时，调用不同的工厂方法，由不同的产品类去处理与操作系统交互的信息
 ## 扩展
 ***
-![UML]()
+![UML](https://github.com/johnnyleeRH/DesignPattern/blob/master/9%20abstractfactory/abstractfactory.png)
